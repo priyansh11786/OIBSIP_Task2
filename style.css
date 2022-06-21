@@ -1,0 +1,40 @@
+*{
+    font-family: 'League Gothic', sans-serif;
+    color: black;
+}
+body{
+    background: linear-gradient(to right, #b3b3b8, #8a96be);
+}
+.title {
+    text-align: center;
+    text-shadow: 0px 8px 6px #bbbaba;
+    font-size: 7vh;
+    color: black;
+    
+}
+.subtitle{
+    text-align: center;
+    text-shadow: 0px 6px 4px #bbbaba;
+    font-size: 25px;
+    color: black;
+    
+}
+.main{
+    width: 50%;
+    box-shadow: 10px 10px 12px 0px #4e4e4e;
+}
+h4{
+    text-align: center;
+    text-shadow: 0px 8px 6px #bbbaba;
+    font-size: 18px;
+    color: black;   
+}
+.about{
+    margin: 0px 20vw;
+    color: white;
+}
+li{
+    text-align: justify;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
